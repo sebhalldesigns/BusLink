@@ -612,6 +612,22 @@
     [
       "b9bac682-fb58-4660-b296-d3d41406785e",
       "Root"
+    ],
+    [
+      "2e44a91d-5ec7-4356-8589-e8391097bdf3",
+      "MCU"
+    ],
+    [
+      "f167c805-7ea2-42ad-83ea-e3d981deebf1",
+      "Power Supplies"
+    ],
+    [
+      "03e5be65-c3e7-4926-8709-e516ec964172",
+      "CAN"
+    ],
+    [
+      "7b01df81-ac5e-4c8e-9771-1aa959d53339",
+      "USB"
     ]
   ],
   "text_variables": {}

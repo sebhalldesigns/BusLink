@@ -1,0 +1,52 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "c38098ea-c574-4653-b551-a57a36653755")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "3V3"
+		(shape passive)
+		(at 26.67 25.4 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "35380764-829c-4e60-8e20-b2f38dae2941")
+	)
+	(hierarchical_label "12V"
+		(shape passive)
+		(at 26.67 20.32 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "89f91857-2b11-4dc2-b8eb-91af17363c98")
+	)
+	(hierarchical_label "GND"
+		(shape passive)
+		(at 26.67 27.94 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "db78a68f-8629-468c-8703-682acc1a1e13")
+	)
+	(hierarchical_label "5V"
+		(shape passive)
+		(at 26.67 22.86 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ea174acd-9237-475e-9295-0af2029632fc")
+	)
+)
