@@ -1217,7 +1217,7 @@
 	)
 	(text_box "COUT:\nSurface Mount Tantalum\nAVX TPS 220uF/10V"
 		(exclude_from_sim no)
-		(at 151.13 16.51 0)
+		(at 142.24 55.88 0)
 		(size 22.86 10.16)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
