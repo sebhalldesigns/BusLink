@@ -2064,7 +2064,7 @@
 			(uuid "30a635dc-ba97-4c9e-8599-f0475cc0e738")
 		)
 		(instances
-			(project ""
+			(project "BusLink"
 				(path "/b9bac682-fb58-4660-b296-d3d41406785e/f167c805-7ea2-42ad-83ea-e3d981deebf1"
 					(reference "U5")
 					(unit 1)
@@ -2132,7 +2132,7 @@
 			(uuid "04019469-616e-4bef-8af7-3f557f663dc0")
 		)
 		(instances
-			(project ""
+			(project "BusLink"
 				(path "/b9bac682-fb58-4660-b296-d3d41406785e/f167c805-7ea2-42ad-83ea-e3d981deebf1"
 					(reference "D1")
 					(unit 1)
@@ -2740,7 +2740,7 @@
 			(uuid "76642a01-8a5c-4fc8-8f6c-bb8b2a633378")
 		)
 		(instances
-			(project ""
+			(project "BusLink"
 				(path "/b9bac682-fb58-4660-b296-d3d41406785e/f167c805-7ea2-42ad-83ea-e3d981deebf1"
 					(reference "#PWR020")
 					(unit 1)
@@ -2817,7 +2817,7 @@
 			(uuid "95ebe725-6836-436e-8156-7f714bedc312")
 		)
 		(instances
-			(project ""
+			(project "BusLink"
 				(path "/b9bac682-fb58-4660-b296-d3d41406785e/f167c805-7ea2-42ad-83ea-e3d981deebf1"
 					(reference "U7")
 					(unit 1)
@@ -3021,7 +3021,7 @@
 			(uuid "3e9a76be-4284-46fe-8f5b-cbfac46938ef")
 		)
 		(instances
-			(project ""
+			(project "BusLink"
 				(path "/b9bac682-fb58-4660-b296-d3d41406785e/f167c805-7ea2-42ad-83ea-e3d981deebf1"
 					(reference "L1")
 					(unit 1)

@@ -2795,6 +2795,28 @@
 			(embedded_fonts no)
 		)
 	)
+	(hierarchical_label "CAN1_TX"
+		(shape output)
+		(at 25.4 41.91 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "108308a7-1a1c-41da-b4af-e8054516ada1")
+	)
+	(hierarchical_label "CAN0_RX"
+		(shape input)
+		(at 25.4 31.75 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "25190e91-77fd-49e2-9b54-b5ebd5ee55de")
+	)
 	(hierarchical_label "3V3"
 		(shape passive)
 		(at 25.4 22.86 180)
@@ -2805,6 +2827,17 @@
 			(justify right)
 		)
 		(uuid "56a1aab5-4880-441a-99f4-6eef7e5113fe")
+	)
+	(hierarchical_label "CAN0_TX"
+		(shape output)
+		(at 25.4 34.29 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9c587a1c-372a-4965-811e-78e8f3e3bc6a")
 	)
 	(hierarchical_label "GND"
 		(shape passive)
@@ -2817,9 +2850,20 @@
 		)
 		(uuid "9ea29137-9f54-4b3f-864e-b63b12650ee7")
 	)
+	(hierarchical_label "CAN1_RX"
+		(shape input)
+		(at 25.4 39.37 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "efa14fc5-9e85-4920-8be1-ab274667fe4b")
+	)
 	(symbol
 		(lib_id "MCU_ST_STM32H7:STM32H723VETx")
-		(at 76.2 95.25 0)
+		(at 142.24 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2828,7 +2872,7 @@
 		(fields_autoplaced yes)
 		(uuid "3ca4a8e2-b623-41c8-b31c-2eaea6f6c173")
 		(property "Reference" "U1"
-			(at 80.8833 163.83 0)
+			(at 146.9233 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2837,7 +2881,7 @@
 			)
 		)
 		(property "Value" "STM32H723VETx"
-			(at 80.8833 166.37 0)
+			(at 146.9233 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2846,7 +2890,7 @@
 			)
 		)
 		(property "Footprint" "Package_QFP:LQFP-100_14x14mm_P0.5mm"
-			(at 50.8 161.29 0)
+			(at 116.84 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2856,7 +2900,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32h723ve.pdf"
-			(at 76.2 95.25 0)
+			(at 142.24 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2865,7 +2909,7 @@
 			)
 		)
 		(property "Description" "STMicroelectronics Arm Cortex-M7 MCU, 512KB flash, 564KB RAM, 550 MHz, 1.71-3.6V, 82 GPIO, LQFP100"
-			(at 76.2 95.25 0)
+			(at 142.24 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
