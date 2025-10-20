@@ -2987,7 +2987,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_Sunlord_SWPA4030S"
 			(at 139.7 78.74 0)
 			(effects
 				(font
